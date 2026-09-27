@@ -218,6 +218,7 @@ Five numerical tests cover vehicle conservation, nonnegative queues, phase clear
 | `results/traces.json` | Recorded demonstrations for all four scenarios and five controllers |
 | `results/metrics.json` | Per-seed metrics, histories, and ablations |
 | `results/summary.json`, `summary.csv` | Aggregated results and paired interval |
+| `results/*-desktop.png`, `report-mobile.png` | Browser-check captures of the report and simulation |
 | `figures/*.png`, `*.svg`, `*.gif` | Exportable scientific figures and recorded animations |
 
 ## Limits
