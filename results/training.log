@@ -1,0 +1,46 @@
+connectome 11
+ epoch 1: loss 0.4864; validation agreement 84.992%
+ epoch 10: loss 0.0440; validation agreement 98.302%
+ epoch 20: loss 0.0209; validation agreement 99.005%
+ epoch 30: loss 0.0147; validation agreement 99.252%
+rewired 11
+ epoch 1: loss 0.4893; validation agreement 84.784%
+ epoch 10: loss 0.0413; validation agreement 98.387%
+ epoch 20: loss 0.0165; validation agreement 99.282%
+ epoch 30: loss 0.0136; validation agreement 99.444%
+mlp 11
+ epoch 1: loss 0.3745; validation agreement 89.907%
+ epoch 10: loss 0.0624; validation agreement 97.346%
+ epoch 20: loss 0.0293; validation agreement 98.981%
+ epoch 30: loss 0.0207; validation agreement 99.198%
+connectome 22
+ epoch 1: loss 0.4977; validation agreement 85.725%
+ epoch 10: loss 0.0633; validation agreement 97.539%
+ epoch 20: loss 0.0272; validation agreement 98.704%
+ epoch 30: loss 0.0157; validation agreement 99.406%
+rewired 22
+ epoch 1: loss 0.5120; validation agreement 84.931%
+ epoch 10: loss 0.0493; validation agreement 98.272%
+ epoch 20: loss 0.0281; validation agreement 98.827%
+ epoch 30: loss 0.0233; validation agreement 99.313%
+mlp 22
+ epoch 1: loss 0.3918; validation agreement 89.367%
+ epoch 10: loss 0.0622; validation agreement 97.222%
+ epoch 20: loss 0.0303; validation agreement 98.750%
+ epoch 30: loss 0.0187; validation agreement 99.252%
+connectome 33
+ epoch 1: loss 0.5014; validation agreement 85.517%
+ epoch 10: loss 0.0458; validation agreement 98.341%
+ epoch 20: loss 0.0191; validation agreement 99.182%
+ epoch 30: loss 0.0119; validation agreement 99.483%
+rewired 33
+ epoch 1: loss 0.5035; validation agreement 83.951%
+ epoch 10: loss 0.0477; validation agreement 98.210%
+ epoch 20: loss 0.0174; validation agreement 98.989%
+ epoch 30: loss 0.0110; validation agreement 99.599%
+mlp 33
+ epoch 1: loss 0.3786; validation agreement 90.170%
+ epoch 10: loss 0.0613; validation agreement 97.654%
+ epoch 20: loss 0.0302; validation agreement 98.627%
+ epoch 30: loss 0.0174; validation agreement 99.290%
+Finished: 122.7592858329881 seconds
