@@ -1,0 +1,103 @@
+{
+  "summary": {
+    "fixed": {
+      "standard": {
+        "mean": 113.05882078615723,
+        "max_residual": 0.0
+      },
+      "surge": {
+        "mean": 189.49005945056325,
+        "max_residual": 0.0
+      },
+      "shuttle": {
+        "mean": 66.55593790065434,
+        "max_residual": 0.0
+      },
+      "restriction": {
+        "mean": 370.85660080226256,
+        "max_residual": 0.0
+      }
+    },
+    "heuristic": {
+      "standard": {
+        "mean": 93.25904166805421,
+        "max_residual": 0.0
+      },
+      "surge": {
+        "mean": 148.51681987726738,
+        "max_residual": 0.0
+      },
+      "shuttle": {
+        "mean": 65.76016322856088,
+        "max_residual": 0.0
+      },
+      "restriction": {
+        "mean": 286.72628359102714,
+        "max_residual": 0.0
+      }
+    },
+    "connectome": {
+      "standard": {
+        "mean": 93.19972986717796,
+        "max_residual": 0.0
+      },
+      "surge": {
+        "mean": 147.33783818180953,
+        "max_residual": 0.0
+      },
+      "shuttle": {
+        "mean": 64.49875620741699,
+        "max_residual": 0.0
+      },
+      "restriction": {
+        "mean": 285.6495645008611,
+        "max_residual": 0.0
+      }
+    },
+    "rewired": {
+      "standard": {
+        "mean": 92.8440989446913,
+        "max_residual": 0.0
+      },
+      "surge": {
+        "mean": 146.08654555980672,
+        "max_residual": 0.0
+      },
+      "shuttle": {
+        "mean": 64.04278606806864,
+        "max_residual": 0.0
+      },
+      "restriction": {
+        "mean": 284.09189359572264,
+        "max_residual": 0.0
+      }
+    },
+    "mlp": {
+      "standard": {
+        "mean": 92.82080604386965,
+        "max_residual": 0.0
+      },
+      "surge": {
+        "mean": 147.4883693091913,
+        "max_residual": 0.0
+      },
+      "shuttle": {
+        "mean": 64.11057648922767,
+        "max_residual": 0.0
+      },
+      "restriction": {
+        "mean": 283.9272141753112,
+        "max_residual": 0.0
+      }
+    }
+  },
+  "effect": {
+    "reduction_percent": 17.565273351418842,
+    "paired_bootstrap_95": [
+      14.71210734201138,
+      20.30927527478698
+    ],
+    "replicates": 5000,
+    "note": "Resample 20 traffic seeds; first average the three training seeds. Conditional on this simulator and demand distribution."
+  }
+}
