@@ -2,7 +2,7 @@
 
 Steps are given to reproduce below, once finished run `python3 -m http.server 8000` for the completed report and simulation playback. All data required for display are embedded; no external services or tracking are used.
 
-Following the release of the open sourced fruit fly brain map by Google, I became interested in diving into it. Now my attempt and approach may seem crude or unrefined, and this is largely due to the fact that much of the heavy lifting was outsourced to an agent, as I have no formal education in AI models or machine learning. So, all this repository is is a compact computational experiment linking a small, anatomically constrained neural circuit to a simplified traffic-signal task in Lincoln, Nebraska (go huskers). The interface is a companion to the methods and results below. 
+Following the release of the open sourced fruit fly brain map by <a href=https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/>Google</a>, I became interested in diving into it. Now my attempt and approach may seem crude or unrefined, and this is largely due to the fact that much of the heavy lifting was outsourced to an agent, as I have no formal education in AI models or machine learning. So, this repository is just a compact computational experiment linking a small, anatomically constrained neural circuit to a simplified traffic-signal task in Lincoln, Nebraska (go huskers). The interface is a companion to the methods and results below. 
 
 <img width="481" height="290" alt="3AD00108-F3AA-4CAA-9530-DC8B844B6677" src="https://github.com/user-attachments/assets/2a3889d7-12ba-4841-9182-90d23988bba6" /> 
 
