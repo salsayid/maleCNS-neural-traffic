@@ -1,0 +1,97 @@
+{
+  "neurons": [
+    {
+      "type": "L1",
+      "body_id": 36365,
+      "file": "L1-36365.swc",
+      "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/36365.swc",
+      "sha256": "6302ff638ab3fc50bd981f37467d8701c36117a4d982ebbc30b8218d9e1f2fcd",
+      "coordinate_conversion": "8 nm per coordinate unit; plotted in \u00b5m"
+    },
+    {
+      "type": "L3",
+      "body_id": 113138,
+      "file": "L3-113138.swc",
+      "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/113138.swc",
+      "sha256": "f7afb543dd5594b5a62b0076c66eb5a61e2257993a5e148503e451bfdee0ab51",
+      "coordinate_conversion": "8 nm per coordinate unit; plotted in \u00b5m"
+    },
+    {
+      "type": "Mi1",
+      "body_id": 35405,
+      "file": "Mi1-35405.swc",
+      "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/35405.swc",
+      "sha256": "811857d6d36a116db034954cf621b88f535d9249cd348d2fe3a842c3dbb85a84",
+      "coordinate_conversion": "8 nm per coordinate unit; plotted in \u00b5m"
+    },
+    {
+      "type": "Mi4",
+      "body_id": 88452,
+      "file": "Mi4-88452.swc",
+      "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/88452.swc",
+      "sha256": "d74365f315147111b850c1db96a19916c1695c55b7ca3918788bba7f8e949e9d",
+      "coordinate_conversion": "8 nm per coordinate unit; plotted in \u00b5m"
+    },
+    {
+      "type": "Mi9",
+      "body_id": 65868,
+      "file": "Mi9-65868.swc",
+      "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/65868.swc",
+      "sha256": "189ab875a48c6c6f985dbb3e22c71aa200e31028a6569e4e613a0cdb40667a30",
+      "coordinate_conversion": "8 nm per coordinate unit; plotted in \u00b5m"
+    },
+    {
+      "type": "Tm3",
+      "body_id": 131823,
+      "file": "Tm3-131823.swc",
+      "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/131823.swc",
+      "sha256": "09f18ee012ce50a6b55e0d9aeffa7f7c86834a56c2efcfd9163373f4b7cb1966",
+      "coordinate_conversion": "8 nm per coordinate unit; plotted in \u00b5m"
+    },
+    {
+      "type": "T4a",
+      "body_id": 92996,
+      "file": "T4a-92996.swc",
+      "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/92996.swc",
+      "sha256": "6ab5dff5f7b57afa8299b97451ff6ad7550f6e367627552565254202b4418f57",
+      "coordinate_conversion": "8 nm per coordinate unit; plotted in \u00b5m"
+    },
+    {
+      "type": "T4b",
+      "body_id": 101873,
+      "file": "T4b-101873.swc",
+      "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/101873.swc",
+      "sha256": "5e0181b6dfbd73a881398edb251e11e4441fe3e79249a0cec4900f0c62b73f63",
+      "coordinate_conversion": "8 nm per coordinate unit; plotted in \u00b5m"
+    },
+    {
+      "type": "T4c",
+      "body_id": 90049,
+      "file": "T4c-90049.swc",
+      "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/90049.swc",
+      "sha256": "50430acea6d41008563d4b1e949676c52b1c8058dd18274b42e7541bae2e0b8f",
+      "coordinate_conversion": "8 nm per coordinate unit; plotted in \u00b5m"
+    },
+    {
+      "type": "T4d",
+      "body_id": 97249,
+      "file": "T4d-97249.swc",
+      "source": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-swc/97249.swc",
+      "sha256": "af3bdfe24da4b8147d2a947dcdbccc7e805230d3d6cde6dbcca373bae1f42083",
+      "coordinate_conversion": "8 nm per coordinate unit; plotted in \u00b5m"
+    }
+  ],
+  "city_data": {
+    "source": "https://gis.lincoln.ne.gov/public/rest/services/LTUTraffic/TrafficSignals/MapServer/3",
+    "file": "downtown-signals.geojson",
+    "sha256": "5a3c31b4538eb730f478677f31bd2554b0c2962ad423634108474ae83066a3e6",
+    "retrieved": "2026-09-26",
+    "used_fields": [
+      "IntersectionName",
+      "IntersectionNumber",
+      "geometry"
+    ]
+  },
+  "attribution": "MaleCNS: FlyEM/HHMI Janelia, Cambridge, MRC LMB, Google Research (CC-BY). Signal locations: City of Lincoln/Lancaster County GIS.",
+  "note": "Ten representative actual neurons from the 196-neuron model; morphology is shown for reference and is not used in the rate equations."
+}
