@@ -4,8 +4,7 @@ Open `index.html` for the completed report and simulation playback. It is a loca
 
 This repository is a compact computational experiment linking a small, anatomically constrained neural circuit to a simplified traffic-signal task in Lincoln, Nebraska. The interface is a companion to the methods and results below. It is not a traffic operations tool.
 
-<img width="481" height="290" alt="3AD00108-F3AA-4CAA-9530-DC8B844B6677" src="https://github.com/user-attachments/assets/2a3889d7-12ba-4841-9182-90d23988bba6" />
-<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/505ec25d-b5c6-4537-b2ed-e45abd4d54d2" />
+<img width="481" height="290" alt="3AD00108-F3AA-4CAA-9530-DC8B844B6677" src="https://github.com/user-attachments/assets/2a3889d7-12ba-4841-9182-90d23988bba6" /> <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/505ec25d-b5c6-4537-b2ed-e45abd4d54d2" />
 
 
 ## Question
