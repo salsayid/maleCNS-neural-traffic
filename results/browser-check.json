@@ -1,0 +1,12 @@
+{
+  "font": "\"Times New Roman\", Times, serif",
+  "all_images_loaded": true,
+  "standard_circuit_seconds": "83.2",
+  "standard_fixed_seconds": "106.5",
+  "restriction_fixed_seconds": "346.3",
+  "play_pause_reset": true,
+  "end_conservation": true,
+  "ablation_rows": 5,
+  "mobile_overflow": false,
+  "page_errors": []
+}
