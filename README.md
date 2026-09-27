@@ -6,19 +6,6 @@ This repository is a compact computational experiment linking a small, anatomica
 
 <img width="481" height="290" alt="3AD00108-F3AA-4CAA-9530-DC8B844B6677" src="https://github.com/user-attachments/assets/2a3889d7-12ba-4841-9182-90d23988bba6" />
 
-## Contents
-
-- [Study question and result](#question)
-- [Recorded model and training animations](#example-trace-animation)
-- [Data and anatomy](#data-and-anatomy)
-- [Traffic task and assumptions](#traffic-model)
-- [Circuit model, objective, and learning](#neural-model-and-training)
-- [Evaluation, uncertainty, and ablations](#evaluation-details)
-- [Reproduction and validation](#reproduce)
-- [Project files](#files)
-- [References and attribution](#references-and-attribution)
-- [Run the site](#run-the-site)
-
 ## Question
 
 Can a small connectome-constrained neural network learn to request sensible traffic-signal phases in a hypothetical Lincoln post-game queue model?
